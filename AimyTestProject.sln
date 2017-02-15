@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staff", "Staff\Staff.csproj", "{A99761BE-02BF-4226-A606-A404F563D2EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{994E9509-62E9-4C70-BE1C-8F88CA7D6389}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99761BE-02BF-4226-A606-A404F563D2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99761BE-02BF-4226-A606-A404F563D2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99761BE-02BF-4226-A606-A404F563D2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99761BE-02BF-4226-A606-A404F563D2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
